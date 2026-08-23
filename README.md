@@ -1,51 +1,70 @@
 <div align="center">
 
-# Hi, I'm Adarsh Singh 👋
+# Hi there 👋, I'm Adarsh Singh
 
-### CSE Student | Aspiring DevOps Engineer
+### CSE Student | DevOps & Cloud ☁️
 
-I’m currently building my foundation in **DevOps, Cloud, Linux, automation, and CI/CD** while working on software development projects along the way.
+**Aspiring DevOps Engineer** focused on learning how software is built, deployed, automated, and maintained.
 
 </div>
 
 ---
 
-## About Me
+## 🧭 About Me
 
-I’m a Computer Science Engineering student with a primary interest in **DevOps and Cloud Engineering**. I enjoy understanding how applications are built, deployed, automated, and maintained.
+I’m a Computer Science Engineering student with a primary interest in **DevOps and Cloud Engineering**. I’m currently building strong fundamentals and learning through hands-on practice rather than trying to specialize in everything at once.
 
-My current focus is on developing strong fundamentals rather than trying to specialize in everything at once.
+My development projects in Java and Web Development help me strengthen programming, databases, and application fundamentals while I move deeper into DevOps.
 
-## Current Learning Path
+## 🛠️ DevOps & Tech Stack
 
-**Linux → Git & GitHub → Networking → Docker → CI/CD → Cloud → Kubernetes → Infrastructure as Code**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,aws,bash,python,java,mysql" />
+</p>
 
-I’m learning these step by step through hands-on practice and projects.
+## 🎯 Areas of Focus
 
-## Technologies
+| DevOps | Cloud & Automation |
+|---|---|
+| 🐳 Containerization & Docker | ☁️ Cloud Fundamentals |
+| 🔄 CI/CD & GitHub Actions | ⚙️ Infrastructure Automation |
+| 🐧 Linux & Shell Scripting | 📦 Kubernetes Fundamentals |
+| 📊 Monitoring & Logging | 🔐 Networking & System Fundamentals |
 
-**Languages:** Java, Python, JavaScript
+## 📚 Currently Learning
 
-**Development:** HTML, CSS, JavaScript, React basics
+**Linux → Networking → Git & GitHub → Docker → CI/CD → Cloud → Kubernetes → Infrastructure as Code**
 
-**DevOps & Cloud:** Git, GitHub, Linux, Docker, CI/CD, Cloud fundamentals
+I’m following this path step by step and building practical projects along the way.
 
-**Databases:** MySQL, PostgreSQL basics
+## 🚀 Featured Projects
 
-## Projects
+### 🏎️ [Typing Speed Racer](https://github.com/adarshsinghhh004/TypingSpeedRacer)
+A Java Swing typing game with live WPM, accuracy tracking, animated gameplay, and MySQL integration.
 
-I also build smaller development and academic projects to strengthen my programming fundamentals, including Java Swing applications, web projects, and database-based applications.
+### 💰 [Personal Finance Manager](https://github.com/adarshsinghhh004/Personal-Finance-Manager-Java)
+A Java Swing application for managing personal expenses and financial records using MySQL/JDBC concepts.
 
-These projects are part of my learning journey; my long-term focus is **DevOps and Cloud**.
+### 🌐 [Event Management Frontend](https://github.com/adarshsinghhh004/aduberg-event-frontend)
+A web development project built while learning modern frontend development concepts.
 
-## Currently Working On
+> These projects represent my development fundamentals. My primary long-term direction is **DevOps & Cloud**.
 
-Learning DevOps fundamentals and building practical projects around Linux, Docker, CI/CD, cloud services, and automation.
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshsinghhh004&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsinghhh004&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+## 🌱 Current Goal
+
+Build strong DevOps fundamentals, create real deployment and automation projects, and gradually move toward production-level cloud infrastructure.
 
 ---
 
 <div align="center">
 
-### Learning. Building. Automating. 🚀
+### 💡 Learn → Build → Automate → Repeat
 
 </div>
