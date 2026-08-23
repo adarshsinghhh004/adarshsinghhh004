@@ -1,18 +1,10 @@
-<!-- ======================= ANIMATED HEADER ======================= -->
+<!-- ======================= PROFILE HEADER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=Adarsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Java%20%26%20DSA&descSize=18&descAlignY=58" width="100%" alt="header"/>
+  <img src="./header.svg" width="100%" alt="Adarsh Singh profile header" />
 </div>
 
-<!-- ======================= TYPING ANIMATION ======================= -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer+%26+DSA+Enthusiast;Hackathon+Participant;Learning+Linux+%26+DevOps+Basics" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- ======================= SOCIALS + VIEWS ======================= -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshsinghhh004&label=Profile%20Views&color=3B82F6&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=adarshsinghhh004&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views"/>
   &nbsp;
   <a href="https://www.linkedin.com/in/adarsh-singh-a31538322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -73,16 +65,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshsinghhh004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsinghhh004&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshsinghhh004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsinghhh004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsinghhh004&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsinghhh004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adarshsinghhh004&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=adarshsinghhh004&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub trophies" />
 
 </div>
 
@@ -104,7 +96,7 @@ Currently strengthening my **DSA** and getting hands-on with the fundamentals of
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </div>
 
-<!-- ======================= ANIMATED FOOTER ======================= -->
+<!-- ======================= FOOTER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="./header.svg" width="100%" alt="profile footer" />
 </div>
