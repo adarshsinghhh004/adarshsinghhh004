@@ -1,7 +1,7 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=220&section=header&text=Adarsh%20Singh&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Learning%20%E2%86%92%20Building%20%E2%86%92%20Growing&descSize=20&descAlignY=55" width="100%" alt="Adarsh Singh header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=220&section=header&text=Adarsh%20Singh&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" alt="Adarsh Singh header"/>
 </div>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
