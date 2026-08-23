@@ -13,7 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,6 +25,51 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Install Pillow
+        run: python -m pip install --quiet pillow
+
+      - name: Generate Animated Profile Header
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageFont
+          import math
+
+          W, H = 1000, 250
+          frames = []
+          font = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 52)
+          sub = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 15)
+
+          for i in range(12):
+              t = i / 12 * 2 * math.pi
+              im = Image.new('RGB', (W, H), (3, 12, 30))
+              d = ImageDraw.Draw(im)
+
+              for y in range(H):
+                  ratio = y / H
+                  d.line((0, y, W, y), fill=(4, int(17 + 18 * ratio), int(48 + 42 * ratio)))
+
+              pts = []
+              for x in range(0, W + 1, 8):
+                  y = 196 + 11 * math.sin(x / 125 + t) + 4 * math.sin(x / 260 - t)
+                  pts.append((x, y))
+
+              d.polygon(pts + [(W, H), (0, H)], fill=(7, 27, 58))
+              d.line(pts, fill=(96, 165, 250), width=2)
+
+              title = 'ADARSH SINGH'
+              box = d.textbbox((0, 0), title, font=font)
+              d.text(((W - (box[2] - box[0])) / 2, 76), title, font=font, fill='white')
+
+              subtitle = 'CSE STUDENT  •  JAVA & DSA  •  EXPLORING DEVOPS'
+              box = d.textbbox((0, 0), subtitle, font=sub)
+              d.text(((W - (box[2] - box[0])) / 2, 137), subtitle, font=sub, fill=(219, 234, 254))
+              d.line((350, 166, 650, 166), fill=(147, 197, 253), width=2)
+
+              frames.append(im)
+
+          frames[0].save('dist/header.gif', save_all=True, append_images=frames[1:], duration=140, loop=0, optimize=True)
+          PY
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
