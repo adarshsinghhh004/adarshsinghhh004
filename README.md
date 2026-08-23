@@ -1,6 +1,6 @@
 <!-- ======================= PROFILE HEADER ======================= -->
 <div align="center">
-  <img src="./header.gif" width="100%" alt="Adarsh Singh animated profile header" />
+  <img src="https://raw.githubusercontent.com/adarshsinghhh004/adarshsinghhh004/output/header.gif" width="100%" alt="Adarsh Singh animated profile header" />
 </div>
 
 <div align="center">
