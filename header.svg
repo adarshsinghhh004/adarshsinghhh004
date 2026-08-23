@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220"><defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#2563eb"/></linearGradient></defs><path fill="url(#g)" d="M0 0h1200v155c-180 55-350 55-600 0S180 100 0 155z"/><text x="600" y="92" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="54" font-weight="700">Adarsh Singh</text><text x="600" y="132" text-anchor="middle" fill="#dbeafe" font-family="Arial,sans-serif" font-size="21">CSE Student  |  Java &amp; DSA  |  Exploring DevOps</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816">
+        <animate attributeName="stop-color" values="#050816;#0b1738;#050816" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#123b83">
+        <animate attributeName="stop-color" values="#123b83;#2563eb;#123b83" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#60a5fa;#38bdf8" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#shine)" opacity="0.35"/>
+
+  <g fill="#93c5fd" opacity="0.7">
+    <circle cx="90" cy="55" r="2"><animate attributeName="cy" values="55;35;55" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="175" r="2.5"><animate attributeName="cy" values="175;145;175" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="65" r="2.5"><animate attributeName="cy" values="65;40;65" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="170" r="2"><animate attributeName="cy" values="170;140;170" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="108" text-anchor="middle" fill="#ffffff" font-family="Trebuchet MS,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="2" filter="url(#glow)">ADARSH SINGH</text>
+  <text x="600" y="151" text-anchor="middle" fill="#dbeafe" font-family="Trebuchet MS,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="1.5">CSE STUDENT  •  JAVA &amp; DSA  •  DEVOPS EXPLORER</text>
+  <text x="600" y="191" text-anchor="middle" fill="#bfdbfe" font-family="Trebuchet MS,Arial,sans-serif" font-size="16" letter-spacing="3">BUILDING • LEARNING • SHIPPING</text>
+
+  <path d="M0 218 Q300 180 600 218 T1200 218 V260 H0Z" fill="#020617" opacity="0.8">
+    <animate attributeName="d" values="M0 218 Q300 180 600 218 T1200 218 V260 H0Z;M0 218 Q300 245 600 218 T1200 218 V260 H0Z;M0 218 Q300 180 600 218 T1200 218 V260 H0Z" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
