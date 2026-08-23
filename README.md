@@ -4,8 +4,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adarshsinghhh004&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/adarsh-singh-a31538322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
