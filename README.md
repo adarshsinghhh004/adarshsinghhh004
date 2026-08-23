@@ -64,18 +64,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adarshsinghhh004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsinghhh004&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsinghhh004&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adarshsinghhh004&theme=tokyonight&no-frame=true&column=7&margin-w=4" alt="GitHub trophies" />
-
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </div>
 
 ---
@@ -83,7 +73,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adarshsinghhh004/adarshsinghhh004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/adarshsinghhh004/adarshsinghhh004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
