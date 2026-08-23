@@ -30,11 +30,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Computer Science Engineering student focused on programming, problem-solving, and building practical software. I enjoy turning ideas into working projects, participating in hackathons, and learning new technologies through hands-on development.
-
-Currently, I am strengthening my DSA skills while exploring Linux, Git, and DevOps fundamentals.
-
-📫 **Email:** singhadarsh42003@gmail.com
+- 🎓 CSE student who enjoys **building, experimenting, and learning by doing**.
+- 💻 Interested in **software development, problem-solving, and creating practical projects**.
+- 🧠 Continuously improving my **programming and logical thinking skills**.
+- 🏆 **Hackathon participant** who enjoys collaborating, experimenting, and building under deadlines.
+- ⚙️ Curious about how applications are **built, deployed, and run in real-world environments**.
 
 ---
 
