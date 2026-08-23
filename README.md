@@ -84,7 +84,7 @@ Currently strengthening my **DSA** and getting hands-on with the fundamentals of
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+<!-- ======================= ANIMATED FOOTER ======================= -->
 <div align="center">
-  <img src="./header.svg" width="100%" alt="profile footer" />
+  <img src="https://raw.githubusercontent.com/adarshsinghhh004/adarshsinghhh004/output/footer.gif" width="100%" alt="animated profile footer" />
 </div>
