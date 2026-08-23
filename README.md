@@ -48,15 +48,7 @@ Currently, I am strengthening my DSA skills while exploring Linux, Git, and DevO
 
 ## 🚀 Projects
 
-<div align="center">
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| 💰 [Personal Finance Manager](https://github.com/adarshsinghhh004/Personal-Finance-Manager-Java) | Desktop application for managing personal expenses | Java · Swing |
-| ⌨️ [Typing Speed Racer](https://github.com/adarshsinghhh004/TypingSpeedRacer) | Typing game focused on speed and accuracy | Java |
-| 🎟️ [Event Platform](https://github.com/adarshsinghhh004/aduberg-event-frontend) | Frontend for a college event management platform | TypeScript |
-
-</div>
+> 🚧 **Building in public** — my projects will be featured here soon. Watch this space!
 
 ---
 
